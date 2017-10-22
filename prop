@@ -1,0 +1,7 @@
+no_of_set=4
+no_of_experiment=2
+experiment_1=sleepDuration_0_runDuration_1
+experiment_2=sleepDuration_1000_runDuration_1
+url=jdbc:postgresql://pcnode2:5432/benchmarksql
+user=benchmarksql
+password=benchmarksql
